@@ -1,19 +1,8 @@
 ---
-library-catalog: Zotero
-authors:
-- F.H. Bradley
-original-title: Appearance and Reality
-links: [Local library](zotero://select/library/items/5MHAQRYT), [Web library](https://www.zotero.org/users/7453955/items/5MHAQRYT)
-title: @Appearance and Reality
-type:
-- reference
-publisher: MACMILLAN
-date: 1893
-language: en
-item-type:
-- book
+title: Appearance and Reality
 tags:
 categories:
+date: 2024-08-25
 lastMod: 2024-08-25
 ---
 Attachments

@@ -17,7 +17,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "Florin Cojocariu"
+# copyright = "Florin Cojocariu"
 enableEmoji = true
 
 #[services]
@@ -112,5 +112,5 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about-me/"
     weight = 20

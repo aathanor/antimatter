@@ -2,19 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antimatters</title>
-    <link>//192.168.100.77:1313/en/</link>
+    <link>//florin.antimaterie.ro/en/</link>
     <description>Recent content on Antimatters</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Florin Cojocariu</copyright>
-    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//192.168.100.77:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//florin.antimaterie.ro/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//florin.antimaterie.ro/en/about-me/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//florin.antimaterie.ro/en/about-me/</guid>
+      <description>While physics was my first love, it took me almost 30 years to understand that philosophy is the real one. I reached the national level of “Olimpiada de fizică” a couple of times in high school in the 80s. I entered the Faculty of Physics in Măgurele in 1985. I wanted to understand how the world is made. In 1989 I started to specialize in the theory of nonlinear systems, while working with a research team developing nuclear fusion experiments (in a remarkable, for its time, mini-&amp;ldquo;tokamak&amp;rdquo;).</description>
+    </item>
     <item>
       <title>Relația cu politica</title>
-      <link>//192.168.100.77:1313/en/posts/politics/</link>
+      <link>//florin.antimaterie.ro/en/posts/politics/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//192.168.100.77:1313/en/posts/politics/</guid>
+      <guid>//florin.antimaterie.ro/en/posts/politics/</guid>
       <description>Asta e o pagină de test. Să zicem că avem un text mai lung (indentat): Matthew Tabone, care a început să lucreze la Parlamentul European pentru Metsola în 2013, îi succede Leticiei Zuleta De Reales Ansaldo. Aceasta preia un nou rol, de director al relaţiilor cu parlamentele naţionale în Parlamentul European, citează News.ro. Dar și un bloc nou. Poți pune direct public::true și pagina devine publică</description>
+    </item>
+    <item>
+      <title>Smolin&#39;s &#34;Einstein&#39;s Unfinished Revolution Zettels&#34;</title>
+      <link>//florin.antimaterie.ro/en/posts/smolins-einsteins-unfinished-revolution-zettels/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//florin.antimaterie.ro/en/posts/smolins-einsteins-unfinished-revolution-zettels/</guid>
+      <description>date:: 26-08-2024 title:: Bohr&amp;rsquo;s complementarity principle as a form of kantian neo-idealism tags:: idealism, cuantică, realitate, quantum theory, reality folgezettel:: {2r1} status:: draft category:: Zettelkasten&#xA;Bohr&amp;rsquo;s position is reminiscent of Kant&amp;rsquo;s inaccessibility of the &amp;ldquo;object in itself&amp;rdquo;. We cannot access the ultimate nature of quantum objects but can only construct representations of them. And what we observe is the response of our instruments, never the object itself. #To investigate: the question of neo-Kantianism in modern quantum.</description>
+    </item>
+    <item>
+      <title>ZETTEL DRAFTS</title>
+      <link>//florin.antimaterie.ro/en/posts/zettel-drafts/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//florin.antimaterie.ro/en/posts/zettel-drafts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Appearance and Reality</title>
+      <link>//florin.antimaterie.ro/en/posts/appearance-and-reality/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//florin.antimaterie.ro/en/posts/appearance-and-reality/</guid>
+      <description>Attachments&#xA;Appearance and Reality.pdf {{zotero-imported-file 97RCH3WY, &amp;ldquo;Appearance and Reality.pdf&amp;rdquo;}} Notes&#xA;Una din problemele care rezultă din teoria asociativă e aceea că un obiect nu e definit decât de asocierile lui. În cazul ăsta obiectul în sine dispare, nu e decât un “slot” conceptual, ceea ce-l definește e ceea cu ce e în relație.&#xA;Definiția e în fond asta, a inventaria conceptele cu care definitul e în relație permanentă. Dacă vizualizăm această relație între concepte ca o rețea, atunci putem spune că un nod e practic un punct fără dimensiune care e definit de nodurile cu care e legat.</description>
     </item>
   </channel>
 </rss>
