@@ -17,14 +17,14 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-# copyright = "Florin Cojocariu"
+copyright = "Anton Pann"
 enableEmoji = true
 
 #[services]
 #  [services.disqus]
 #    shortname = ''
-#  [services.googleAnalytics]
-#    id = ''
+[services.googleAnalytics]
+   id = 'G-ESHWTJ7NNN'
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
@@ -66,9 +66,9 @@ expiryDate = ["expiryDate"]
 
   # description = ""
   # images = [""]
-  themeColor = "#4e495c"
+  themeColor = "#54495c"
 
-  homeSubtitle = "Thoughts & Feelings"
+  homeSubtitle = "in search of the lost reality"
   footerCopyright = "copyright Florin Cojocariu"
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
@@ -85,7 +85,7 @@ expiryDate = ["expiryDate"]
   readTimeSeparator = "time to read"
   # legacyLayout = false
   shareSocial = true
-  googleTagManager = "G-ESHWTJ7NNN"
+  # googleTagManager = "G-ESHWTJ7NNN"
   tagSymbol = "#"
   # categorySymbol = "⊲"
   pinned = "Pinned Posts"
