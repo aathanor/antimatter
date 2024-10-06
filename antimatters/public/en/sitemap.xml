@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/about-me/</loc>
+    <loc>florin.antimaterie.ro/en/about-me/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>florin.antimaterie.ro/en/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/posts/</loc>
+    <loc>florin.antimaterie.ro/en/posts/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/posts/politics/</loc>
+    <loc>florin.antimaterie.ro/en/posts/politics/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/admin/</loc>
+    <loc>florin.antimaterie.ro/en/admin/</loc>
   </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>florin.antimaterie.ro/en/tags/</loc>
   </url>
 </urlset>

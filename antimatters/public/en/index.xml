@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antimatters</title>
-    <link>//localhost:1313/en/</link>
+    <link>florin.antimaterie.ro/en/</link>
     <description>Recent content on Antimatters</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Florin Cojocariu</copyright>
     <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="florin.antimaterie.ro/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>//localhost:1313/en/about-me/</link>
+      <link>florin.antimaterie.ro/en/about-me/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/about-me/</guid>
+      <guid>florin.antimaterie.ro/en/about-me/</guid>
       <description>While physics was my first love, it took me almost 30 years to understand that philosophy is the real one. I entered the Faculty of Physics in Măgurele in 1985. I wanted to understand how the world is made. In 1989 I began to specialize in the theory of nonlinear systems, while working with a research team developing nuclear fusion experiments (in a remarkable, for its time, mini &amp;ldquo;tokamak&amp;rdquo;). My probable research career ended suddenly in the aftermath of the 1990 revolution, when many good scientists and teachers fled to Western universities and research centers, and I decided to take the new option: business.</description>
     </item>
     <item>
       <title>Relația cu politica</title>
-      <link>//localhost:1313/en/posts/politics/</link>
+      <link>florin.antimaterie.ro/en/posts/politics/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/posts/politics/</guid>
+      <guid>florin.antimaterie.ro/en/posts/politics/</guid>
       <description>Asta e o pagină de test. Să zicem că avem un text mai lung (indentat): Matthew Tabone, care a început să lucreze la Parlamentul European pentru Metsola în 2013, îi succede Leticiei Zuleta De Reales Ansaldo. Aceasta preia un nou rol, de director al relaţiilor cu parlamentele naţionale în Parlamentul European, citează News.ro. Dar și un bloc nou. Poți pune direct public::true și pagina devine publică&#xA;Despre ce e vorba de fapt ]n aiureala asta?</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/en/admin/</link>
+      <link>florin.antimaterie.ro/en/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/admin/</guid>
+      <guid>florin.antimaterie.ro/en/admin/</guid>
       <description>&lt;!DOCTYPE html&gt; Content Manager </description>
     </item>
   </channel>
