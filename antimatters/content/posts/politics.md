@@ -12,3 +12,5 @@ lastMod: 2024-08-29
     + Matthew Tabone, care a început să lucreze la Parlamentul European pentru Metsola în 2013, îi succede Leticiei Zuleta De Reales Ansaldo. Aceasta preia un nou rol, de director al relaţiilor cu parlamentele naţionale în Parlamentul European, citează News.ro.
 
 Dar și un bloc nou. Poți pune direct public::true și pagina devine publică
+
+Despre ce e vorba de fapt ]n aiureala asta?

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Antimatters</title>
-		<link>//192.168.100.77:1313/en/posts/</link>
+		<link>//localhost:1313/en/posts/</link>
 		<description>Recent content in Posts on Antimatters</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<copyright>Anton Pann</copyright>
+		<copyright>Florin Cojocariu</copyright>
 		<lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
-		<atom:link href="//192.168.100.77:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="//localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Relația cu politica</title>
-			<link>//192.168.100.77:1313/en/posts/politics/</link>
+			<link>//localhost:1313/en/posts/politics/</link>
 			<pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
 			
-			<guid>//192.168.100.77:1313/en/posts/politics/</guid>
+			<guid>//localhost:1313/en/posts/politics/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<h1 id="asta-e-o-pagină-de-test">Asta e o pagină de test.</h1>
 <ul>
@@ -26,6 +26,7 @@
 </li>
 </ul>
 <p>Dar și un bloc nou. Poți pune direct public::true și pagina devine publică</p>
+<p>Despre ce e vorba de fapt ]n aiureala asta?</p>
 ]]></content>
 		</item>
 		

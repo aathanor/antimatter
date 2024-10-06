@@ -17,7 +17,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "Anton Pann"
+copyright = "Florin Cojocariu"
 enableEmoji = true
 
 #[services]
